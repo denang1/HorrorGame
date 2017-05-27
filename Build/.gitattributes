@@ -1,0 +1,4 @@
+DennisFinalWeb.asm.code.unityweb filter=lfs diff=lfs merge=lfs -text
+DennisFinalWeb.asm.framework.unityweb filter=lfs diff=lfs merge=lfs -text
+DennisFinalWeb.asm.memory.unityweb filter=lfs diff=lfs merge=lfs -text
+DennisFinalWeb.data.unityweb filter=lfs diff=lfs merge=lfs -text
